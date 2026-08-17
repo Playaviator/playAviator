@@ -1,7 +1,7 @@
 PlayAviator Game – Explore the Aviator Game with a Free Demo
 
 Welcome to play Aviator game,an independent website created for people who want to learn more about the Aviator game in a simple and easy-to-understand way.
-If you are new to Aviator, the game may look confusing at first. You see an aircraft moving across the screen, a multiplier increasing, and a cash-out option during the round. Our goal is to explain these features clearly so visitors can understand the basic game format before exploring it further.
+If you are new to <a href="https://playaviator.org/">Aviator</a> , the game may look confusing at first. You see an aircraft moving across the screen, a multiplier increasing, and a cash-out option during the round. Our goal is to explain these features clearly so visitors can understand the basic game format before exploring it further.
 At PlayAviator.org, we focus on Aviator game guides, free game information, demo play, mobile access, and responsible gaming. Our free demo uses virtual credits, allowing visitors to become familiar with the game interface without making a real-money deposit.
 What Is the Aviator Game?
 
